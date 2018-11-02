@@ -17,3 +17,9 @@
 **Today's Progress**: Made another 4 pull requests and completed the Hacktoberfest challenge!
 
 **Thoughts:** Definitely feeling more comfortable with the process of doing pull requests. Ran into some trouble where GitHub didn't seem to respond after I pushed my updates. I was able to see that my new branch got added to my repo, but it's odd because it usually lets me know I can create a new pull request right after I push my changes.
+
+### Day 4: November 1, 2018
+
+**Today's Progress**: Learned I could safely move my local repository as long as all the hidden .git files are moved as well. Also worked through the Applied Visual Design section of the Responsive Web Design Certification on FreeCodeCamp. Refreshed my memory about a few cool CSS properties that I never use, namely repeating-linear-gradient, a few transform functions (skewX, skewY, rotate), and @keyframes/animation.
+
+**Thoughts:** So glad it's easy to move my local repo without messing everything up! I was so worried about it. Also, after the refresher on CSS animations, I'm excited to figure out how I can use them at work.
