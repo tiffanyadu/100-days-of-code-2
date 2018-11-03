@@ -23,3 +23,15 @@
 **Today's Progress:** Learned I could safely move my local repository as long as all the hidden .git files are moved as well. Also worked through the Applied Visual Design section of the Responsive Web Design Certification on FreeCodeCamp. Refreshed my memory about a few cool CSS properties that I never use, namely repeating-linear-gradient, a few transform functions (skewX, skewY, rotate), and @keyframes/animation.
 
 **Thoughts:** So glad it's easy to move my local repo without messing everything up! I was so worried about it. Also, after the refresher on CSS animations, I'm excited to figure out how I can use them at work.
+
+### Day 5: November 2, 2018
+
+**Today's Progress:** Worked on the Applied Accessibility section of FCC's RWD Certification. This covered semantic HTML and reminded me about how important it is, especially for screen readers.
+
+**Thoughts:** It's so hard to find time to code on busy days! Decided to do some coding in the morning, but only did 30 minutes worth - will need to make up for it tomorrow. After learning about semantic HTML, I feel kind of bad about not caring much about it previously, but I'm inspired to try harder now.
+
+### Day 6: November 3, 2018
+
+**Today's Progress:** Completed the Applied Accessibility, Responsive Web Design Principles, and CSS Flexbox sections of FCC's RWD Certification. 
+
+**Thoughts:** I knew about flex-grow, but did not fully understand flex-shrink or flex-basis until now. These will definitely come in handy when setting sizing and proportions of children elements of a flex box.
