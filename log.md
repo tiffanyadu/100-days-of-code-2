@@ -35,3 +35,9 @@
 **Today's Progress:** Completed the Applied Accessibility, Responsive Web Design Principles, and CSS Flexbox sections of FCC's RWD Certification. 
 
 **Thoughts:** I knew about flex-grow, but did not fully understand flex-shrink or flex-basis until now. These will definitely come in handy when setting sizing and proportions of children elements of a flex box.
+
+### Day 7: November 4, 2018
+
+**Today's Progress:**  Completed the CSS Grid section of FCC's RWD Certification. Went back to an old pen (on CodePen) and improved it.
+
+**Thoughts:** Re-learning CSS grid has me feeling excited all over again! Too bad it's not 100% supported across browsers just yet, but it's a step in the right direction so it would be *amazing* if it becomes the standard in a few years. Was about to start one of the RWD projects, but then an old pen caught my eye. I was testing out how to implement a blurry background overlay since I keep seeing them used in UI design. Upon revisiting, I cleaned up the code a bit and decided to try giving the blurry background overlay more of a "frosted pane" effect by fixing the background images. Pretty happy with how it turned out!
