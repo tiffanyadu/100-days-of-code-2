@@ -41,3 +41,9 @@
 **Today's Progress:**  Completed the CSS Grid section of FCC's RWD Certification. Went back to an old pen (on CodePen) and improved it.
 
 **Thoughts:** Re-learning CSS grid has me feeling excited all over again! Too bad it's not 100% supported across browsers just yet, but it's a step in the right direction so it would be *amazing* if it becomes the standard in a few years. Was about to start one of the RWD projects, but then an old pen caught my eye. I was testing out how to implement a "frosted glass" look since I keep seeing them used in UI design. Upon revisiting, I cleaned up the code a bit and decided to fix the backgrounds so it looks as though the image is "moving" behind the frosted glass. Pretty happy with how it turned out!
+
+### Day 8: November 5, 2018
+
+**Today's Progress:** Installed node.js, npm, and http-server to set up a command line http server to use for local development. Got through the Getting Started Guide for Phaser.io so now I'm all set up to learn how to create my very own 2D platform game. 
+
+**Thoughts:** I saw GitHub promoting this Game Off challenge, and I'm thinking about participating! Assuming Phaser.io isn't too difficult to learn, this sounds like a fun project and I'm excited to begin! It took a while to install all the required elements needed for local development, but at least it's all ready to go now. 
