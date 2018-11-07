@@ -47,3 +47,9 @@
 **Today's Progress:** Installed node.js, npm, and http-server to set up a command line http server to use for local development. Got through the Getting Started Guide for Phaser.io so now I'm all set up to learn how to create my very own 2D platform game. 
 
 **Thoughts:** I saw GitHub promoting this Game Off challenge, and I'm thinking about participating! Assuming Phaser.io isn't too difficult to learn, this sounds like a fun project and I'm excited to begin! It took a while to install all the required elements needed for local development, but at least it's all ready to go now. 
+
+### Day 9: November 6, 2018
+
+**Today's Progress:** Finished the entire Making Your First Phaser 3 Game tutorial at Phaser.io and created my very first platform game! It has arcade physics, keeps score, and even has obstacles to avoid!
+
+**Thoughts:** This is pretty amazing that I can create a simple game like this so quickly! It was relatively straight-forward and also very rewarding because I'm able to see results with just a few lines of code. Excited to learn more about this!
