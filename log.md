@@ -53,3 +53,9 @@
 **Today's Progress:** Finished the entire Making Your First Phaser 3 Game tutorial at Phaser.io and created my very first platform game! It has arcade physics, keeps score, and even has obstacles to avoid!
 
 **Thoughts:** This is pretty amazing that I can create a simple game like this so quickly! It was relatively straight-forward and also very rewarding because I'm able to see results with just a few lines of code. Excited to learn more about this!
+
+### Day 10: November 7, 2018
+
+**Today's Progress:** Started a tutorial on "How to Create a Turn-Based RPG" at Zenva Academy.
+
+**Thoughts:** Got so many ideas swirling in my mind right now - hopefully this type of game isn't too difficult to set up! I didn't get much done though because I started way too late in the evening. Need to make time for this either in the morning or immediately after work to avoid being too tired to focus.
