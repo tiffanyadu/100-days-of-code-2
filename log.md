@@ -59,3 +59,9 @@
 **Today's Progress:** Started a tutorial on "How to Create a Turn-Based RPG" at Zenva Academy.
 
 **Thoughts:** Got so many ideas swirling in my mind right now - hopefully this type of game isn't too difficult to set up! I didn't get much done though because I started way too late in the evening. Need to make time for this either in the morning or immediately after work to avoid being too tired to focus.
+
+### Day 11: November 8, 2018
+
+**Today's Progress:** Continued with the same tutorial ("How to Create a Turn-Based RPG" at Zenva Academy) and completed Part 1.
+
+**Thoughts:** Ran into an issue with my player's walk cycle not animating properly when going left or right. Spent nearly an hour trying to troubleshoot it with no avail, so I'm feeling pretty frustrated.
