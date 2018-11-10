@@ -65,3 +65,9 @@
 **Today's Progress:** Continued with the same tutorial ("How to Create a Turn-Based RPG" at Zenva Academy) and completed Part 1.
 
 **Thoughts:** Ran into an issue with my player's walk cycle not animating properly when going left or right. Spent nearly an hour trying to troubleshoot it with no avail, so I'm feeling pretty frustrated.
+
+### Day 12: November 9, 2018
+
+**Today's Progress:** Troubleshooted the bug from yesterday and started Part 2 of "How to Create a Turn-Based RPG" at Zenva Academy.
+
+**Thoughts:** Managed to fix that bug within the first 10 minutes of tonight's session! It's amazing what a break can do for your mind! I was trying to keep my code DRY so I had combined the two sets of if-else statements from the tutorial. Didn't realize the walk cycle animations needed to be grouped together in a bunch of else-if statements, but now I will never forget! This next step of the tutorial series that is setting up the battle scene is a bit confusing, but hopefully things will get clearer once I get to the end.
