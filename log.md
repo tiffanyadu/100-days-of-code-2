@@ -77,3 +77,9 @@
 **Today's Progress:** Completed Part 2 of the same tutorial from yesterday.
 
 **Thoughts:** Unsure whether it's me or the tutorial, but the very last bit where we display a message in the battle scene is not working for me. Starting to feel like I wasted time with this because there isn't a whole lot of explaination to help me understand what the code is doing, plus, there doesn't seem to be a part 3 for this turn-based rpg game just yet. Will need to switch gears tomorrow and work on something that will help me advance in my career.
+
+### Day 14: November 11, 2018
+
+**Today's Progress:** Started creating my own Phaser 3 game based on the few tutorials I've done so far.
+
+**Thoughts:** It's going to be tough putting together a game by the end of the month - think I've bitten off more than I can chew since I'm still not very familiar with Phase.io. We'll see what I can accomplish over the next week. May need to work on a simpler project to start.
