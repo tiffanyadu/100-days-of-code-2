@@ -71,3 +71,9 @@
 **Today's Progress:** Troubleshooted the bug from yesterday and started Part 2 of "How to Create a Turn-Based RPG" at Zenva Academy.
 
 **Thoughts:** Managed to fix that bug within the first 10 minutes of tonight's session! It's amazing what a break can do for your mind! I was trying to keep my code DRY so I had combined the two sets of if-else statements from the tutorial. Didn't realize the walk cycle animations needed to be grouped together in a bunch of else-if statements, but now I will never forget! This next step of the tutorial series that is setting up the battle scene is a bit confusing, but hopefully things will get clearer once I get to the end.
+
+### Day 13: November 10, 2018
+
+**Today's Progress:** Completed Part 2 of the same tutorial from yesterday.
+
+**Thoughts:** Unsure whether it's me or the tutorial, but the very last bit where we display a message in the battle scene is not working for me. Starting to feel like I wasted time with this because there isn't a whole lot of explaination to help me understand what the code is doing, plus, there doesn't seem to be a part 3 for this turn-based rpg game just yet. Will need to switch gears tomorrow and work on something that will help me advance in my career.
