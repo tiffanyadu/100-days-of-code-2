@@ -83,3 +83,9 @@
 **Today's Progress:** Started creating my own Phaser 3 game based on the few tutorials I've done so far.
 
 **Thoughts:** It's going to be tough putting together a game by the end of the month - think I've bitten off more than I can chew since I'm still not very familiar with Phase.io. We'll see what I can accomplish over the next week. May need to work on a simpler project to start.
+
+### Day 15: November 12, 2018
+
+**Today's Progress:** Completed the Responsive Web Design Project - Build a Survey Form for FreeCodeCamp.
+
+**Thoughts:** Need to spend time updating my portfolio, so I decided to take it easy tonight. Still was a bit of a challenge since I haven't built a form from scratch in forever, but it's definitely good to review these html tags and attributes.
