@@ -89,3 +89,9 @@
 **Today's Progress:** Completed the Responsive Web Design Project - Build a Survey Form for FreeCodeCamp.
 
 **Thoughts:** Need to spend time updating my portfolio, so I decided to take it easy tonight. Still was a bit of a challenge since I haven't built a form from scratch in forever, but it's definitely good to review these html tags and attributes.
+
+### Day 16: November 13, 2018
+
+**Today's Progress:** Completed the first half of the Basic Javascript section (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** It's been a while since I've worked with Javascript so this was yet another refresher for me - forgot how fun it was! I only managed to get through the super basic stuff tonight, so I can wait until I get to one of the puzzles. Hopefully I can pick up where I left off last year relatively easily.
