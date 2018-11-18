@@ -95,3 +95,9 @@
 **Today's Progress:** Completed the first half of the Basic Javascript section (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** It's been a while since I've worked with Javascript so this was yet another refresher for me - forgot how fun it was! I only managed to get through the super basic stuff tonight, so I can wait until I get to one of the puzzles. Hopefully I can pick up where I left off last year relatively easily.
+
+### Day 17: November 17, 2018
+
+**Today's Progress:** Continued working through the Basic Javascript section (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp. Covered the switch statements, objects, and how to access/modify/add object properties with dot notation, bracket notation, and variables. Also learned about the .hasOwnProperty() method and how to delete properties, both of which are completely new to me, and completed the Record Collection challenge.
+
+**Thoughts:** I feel terrible about skipping 3 days in a row, but it was such a busy week that I literally had no time or energy to put towards coding until today. Finally getting to the part of javascript that I'm less comfortable with though, so now I can pick up where I left off last year and start "leveling up"! Missed a few small details when attempting the Record collection challenge the first time around, so after I solved it, I restarted the challenge to be sure I didn't just stumble upon the correct answer. Got it right on the first try in my second attempt, so I'd say I actually know what I'm doing now, haha.
