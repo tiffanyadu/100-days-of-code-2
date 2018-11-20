@@ -107,3 +107,16 @@
 **Today's Progress:** Completed the Basic Javascript section (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp! Covered for, while, and do...while loops, Math.random(), parseInt(), and conditional (ternary) operators.
 
 **Thoughts:** The Profile Lookup challenge was pretty fun to do. Did not think to place the final return statement outside of the for loop, so it will take some practice to truly understand why it belongs there instead of inside the loop. Looking forward to learning ES6!
+
+### Day 19: November 19, 2018
+
+**Today's Progress:** Worked on the ES6 section (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp. Reviewed the following:
+* let vs. const
+* Object.freeze()
+* arrow functions
+* map(), filter(), and reduce() methods
+* default parameters
+* rest and spread operators
+* destructuring assigment
+
+**Thoughts:** I remember most of this from last year, but struggled a bit with the destructuring assignment portion. Got to keep pushing forward!
