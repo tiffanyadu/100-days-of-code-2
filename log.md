@@ -120,3 +120,13 @@
 * destructuring assigment
 
 **Thoughts:** I remember most of this from last year, but struggled a bit with the destructuring assignment portion. Got to keep pushing forward!
+
+### Day 20: November 20, 2018
+
+**Today's Progress:** Completed the ES6 section (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp. Reviewed the following:
+* template & object literals
+* constructor functions
+* get & set functions
+* import, require, export, & export defaults
+
+**Thoughts:** Either I'm brain-dead tonight or this last bit of the ES6 section is dense! Having a hard time understanding the concepts as well as when and why I would use them. Maybe this will all become clearer later on when I get a chance to actually practice using them.
