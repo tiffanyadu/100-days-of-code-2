@@ -130,3 +130,13 @@
 * import, require, export, & export defaults
 
 **Thoughts:** Either I'm brain-dead tonight or this last bit of the ES6 section is dense! Having a hard time understanding the concepts as well as when and why I would use them. Maybe this will all become clearer later on when I get a chance to actually practice using them.
+
+### Day 21: November 21, 2018
+
+**Today's Progress:** Started the Regular Expressions section (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp. Reviewed the following:
+* test() and match() methods
+* i and g flags
+* wildcard dot/period
+* character classes + shorthand
+
+**Thoughts:** Feel like I have a better understanding of the regex syntax after going through this lesson – it's still a lot to remember though.
