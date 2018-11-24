@@ -140,3 +140,12 @@
 * character classes + shorthand
 
 **Thoughts:** Feel like I have a better understanding of the regex syntax after going through this lesson – it's still a lot to remember though.
+
+### Day 22: November 23, 2018
+
+**Today's Progress:** Finished the Regular Expressions and started the Debugging sections (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp. Reviewed the following:
+* how to specify upper, lower, and exact number of matches and how to check for all or none
+* positive & negative lookaheads
+* capture groups
+
+**Thoughts:** Feeling quite confused with the more complicated concepts towards the end of the RegEx lessons. Maybe it will just take some practice to get comfortable with lookaheads and capture groups, but I had a hard time solving the last couple of challenges without any hints.
