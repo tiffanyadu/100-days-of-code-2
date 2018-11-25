@@ -162,3 +162,9 @@
 * add, modify, remove, & iterate through keys in objects
 
 **Thoughts:** Glad that the Basic Data Structure lessons reviewed concepts from earlier lessons because I barely remember how to use them! Will be starting the Basic Algorithm Scripting challenges tomorrow, so we'll see how much of this info I've actually retained.
+
+### Day 24: November 25, 2018
+
+**Today's Progress:** Got through half of the Basic Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** So happy to finally get to apply what I've learned on these puzzles. A bit of a challenge, but extremely satisfying once I figure it out.
