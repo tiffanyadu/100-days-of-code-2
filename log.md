@@ -149,3 +149,16 @@
 * capture groups
 
 **Thoughts:** Feeling quite confused with the more complicated concepts towards the end of the RegEx lessons. Maybe it will just take some practice to get comfortable with lookaheads and capture groups, but I had a hard time solving the last couple of challenges without any hints.
+
+### Day 23: November 24, 2018
+
+**Today's Progress:** Finished the Debugging and Basic Data Structures sections (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp. Reviewed the following:
+* console.log & console.clear
+* typeof method
+* common mistakes to watch out for
+* reinitializing variables inside a loop
+* splice() & slice() array methods
+* copying and combining arrats with spread operator
+* add, modify, remove, & iterate through keys in objects
+
+**Thoughts:** Glad that the Basic Data Structure lessons reviewed concepts from earlier lessons because I barely remember how to use them! Will be starting the Basic Algorithm Scripting challenges tomorrow, so we'll see how much of this info I've actually retained.
