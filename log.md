@@ -168,3 +168,9 @@
 **Today's Progress:** Got through half of the Basic Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** So happy to finally get to apply what I've learned on these puzzles. A bit of a challenge, but extremely satisfying once I figure it out.
+
+### Day 25: November 26, 2018
+
+**Today's Progress:** Completed a few more of the Basic Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** I was quite stumped by the Title Case a Sentence challenge – had to look at a couple hints in order to figure out what to do.
