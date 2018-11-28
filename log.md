@@ -174,3 +174,9 @@
 **Today's Progress:** Completed a few more of the Basic Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** I was quite stumped by the Title Case a Sentence challenge – had to look at a couple hints in order to figure out what to do.
+
+### Day 26: November 27, 2018
+
+**Today's Progress:** Continued with the Basic Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Wow, this Falsey Bouncer challenge is a tough one. Tried so many things without making much progress, but I think the issue here is that I don't fully understand what makes something "falsey". Will need to come back to it tomorrow!
