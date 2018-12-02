@@ -180,3 +180,9 @@
 **Today's Progress:** Continued with the Basic Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Wow, this Falsey Bouncer challenge is a tough one. Tried so many things without making much progress, but I think the issue here is that I don't fully understand what makes something "falsey". Will need to come back to it tomorrow!
+
+### Day 27: December 1, 2018
+
+**Today's Progress:** Completed the Basic Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Had to look up the answer for Falsey Bouncer, but still don't quite understand how the filter method works with the Boolean value. Also had a lot of trouble with the last challenge, Chunky Monkey! Need to review how/why this code works. 
