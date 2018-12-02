@@ -186,3 +186,19 @@
 **Today's Progress:** Completed the Basic Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Had to look up the answer for Falsey Bouncer, but still don't quite understand how the filter method works with the Boolean value. Also had a lot of trouble with the last challenge, Chunky Monkey! Need to review how/why this code works. 
+
+### Day 28: December 2, 2018
+
+**Today's Progress:** Completed the Object Oriented Programming section and started the Functional Programming Challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp. Reviewed the following:
+* Objects - properties & methods
+* Constructors
+* Own & prototype properties
+* Changing prototypes into new objects
+* instanceof & isPrototypeOf methods
+* Prototype chain, Supertypes, inheritance, mixins
+* Closures & private properties
+* Immediated Invoked Function Expressions (IIFE) & using it to create a module
+* Callbacks, first class vs. higher order functions
+* Mutations, side effects, & pure functions
+
+**Thoughts:** I think I have a pretty good grasp on Objects and Constructors and how to manipulate them. The functional programming concepts are making sense so far, but we'll see how complex this section's lessons get.
