@@ -202,3 +202,9 @@
 * Mutations, side effects, & pure functions
 
 **Thoughts:** I think I have a pretty good grasp on Objects and Constructors and how to manipulate them. The functional programming concepts are making sense so far, but we'll see how complex this section's lessons get.
+
+### Day 29: December 3, 2018
+
+**Today's Progress:** Continued with the Functional Programming Challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp and reviewed the map and filter methods.
+
+**Thoughts:** Having to reverse-engineer those map and filter methods was SUCH a great exercise! Really helped to reinforce what those methods do and how they work exactly.
