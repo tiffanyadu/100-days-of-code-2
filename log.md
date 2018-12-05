@@ -208,3 +208,13 @@
 **Today's Progress:** Continued with the Functional Programming Challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp and reviewed the map and filter methods.
 
 **Thoughts:** Having to reverse-engineer those map and filter methods was SUCH a great exercise! Really helped to reinforce what those methods do and how they work exactly.
+
+### Day 30: December 4, 2018
+
+**Today's Progress:** Continued with the Functional Programming challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp and reviewed the following:
+* slice vs. splice methods
+* concat vs. push methods
+* reduce vs. filter vs. map methods
+* sort, split, join methods
+
+**Thoughts:** This is such a great section of FCC! So glad to get more practice with all those methods to solve these simpler puzzles. Much more digestible compared to some of the previous scripting challenges!
