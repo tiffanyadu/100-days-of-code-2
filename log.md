@@ -205,7 +205,7 @@
 
 ### Day 29: December 3, 2018
 
-**Today's Progress:** Continued with the Functional Programming Challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp and reviewed the map and filter methods.
+**Today's Progress:** Continued with the Functional Programming challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp and reviewed the map and filter methods.
 
 **Thoughts:** Having to reverse-engineer those map and filter methods was SUCH a great exercise! Really helped to reinforce what those methods do and how they work exactly.
 
