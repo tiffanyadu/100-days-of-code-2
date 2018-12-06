@@ -218,3 +218,11 @@
 * sort, split, join methods
 
 **Thoughts:** This is such a great section of FCC! So glad to get more practice with all those methods to solve these simpler puzzles. Much more digestible compared to some of the previous scripting challenges!
+
+### Day 31: December 5, 2018
+
+**Today's Progress:** Finally done with the Functional Programming section and started the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp and reviewed the following:
+* every & some methods
+* currying & partial application
+
+**Thoughts:** Here we go – I was right to anticipate having difficulties with these challenges. Got stuck on the second one, "Diff Two Arrays". Not quite sure how to approach this challenge, but hopefully a fresh start tomorrow will help.
