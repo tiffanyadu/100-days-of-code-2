@@ -226,3 +226,9 @@
 * currying & partial application
 
 **Thoughts:** Here we go – I was right to anticipate having difficulties with these challenges. Got stuck on the second one, "Diff Two Arrays". Not quite sure how to approach this challenge, but hopefully a fresh start tomorrow will help.
+
+### Day 32: December 10, 2018
+
+**Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Feel terrible about skipping SO many days in a row! But with how busy I've been at work, it was some much needed rest. Had a lot of trouble with the Diff Two Arrays challenge, but I managed to figure it out on my own without looking up the solution, so I'm quite satisfied with that!
