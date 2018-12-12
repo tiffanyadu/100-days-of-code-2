@@ -232,3 +232,9 @@
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Feel terrible about skipping SO many days in a row! But with how busy I've been at work, it was some much needed rest. Had a lot of trouble with the Diff Two Arrays challenge, but I managed to figure it out on my own without looking up the solution, so I'm quite satisfied with that!
+
+### Day 33: December 11, 2018
+
+**Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Managed to solve a couple of these challenges, but only after checking out the hints. The Wherefore Art Thou challenge was the worst though! I don't quite understand why it needs to use the .every() method? It seems like it should work without it. Also, feeling quite annoyed that the official solutions listed by FreeCodeCamp don't even try to use the supplied arr variable! I've been trying to push the results to that array, but for whatever reason, that doesn't pass. Ugh.
