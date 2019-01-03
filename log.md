@@ -238,3 +238,9 @@
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Managed to solve a couple of these challenges, but only after checking out the hints. The Wherefore Art Thou challenge was the worst though! I don't quite understand why it needs to use the .every() method? It seems like it should work without it. Also, feeling quite annoyed that the official solutions listed by FreeCodeCamp don't even try to use the supplied arr variable! I've been trying to push the results to that array, but for whatever reason, that doesn't pass. Ugh.
+
+### Day 34: January 2, 2019
+
+**Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** The holiday season was so busy this in 2018 that I had to take a break from coding to catch up on everything! Finally back on it though and it feels pretty great to be exercising my scripting skills again. Got through a couple of these challenges without too much trouble, so that's extremely satisfying! Also, I found this site (https://regexr.com/) that gives you a visual of what regex characters you're selecting and it's been extremely helpful in helping me understand it better.
