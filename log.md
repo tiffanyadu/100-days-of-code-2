@@ -249,4 +249,4 @@
 
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
-**Thoughts:** Only managed to solve one scripting challenge tonight, Search and Replace. Had some trouble in the beginning when trying to figure out how to title case a string, then remembered that you can target the first letter of a string by using the charAt() method. At the same time, I learned that using brackets to select a string character (e.g., 'string[0]') is not a good idea because it's not fully supported by all browsers. I also learned that assignment operators (+, +=) offer faster performance when compared to the concat() method, so this is very good to know!
+**Thoughts:** Only managed to solve one scripting challenge tonight, Search and Replace. Had some trouble in the beginning when trying to figure out how to title case a string, then remembered that you can target the first letter of a string by using the charAt() method. I also learned that assignment operators (+, +=) offer faster performance when compared to the concat() method, so this is very good to know!
