@@ -244,3 +244,9 @@
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** The holiday season was so busy this in 2018 that I had to take a break from coding to catch up on everything! Finally back on it though and it feels pretty great to be exercising my scripting skills again. Got through a couple of these challenges without too much trouble, so that's extremely satisfying! Also, I found this site (https://regexr.com/) that gives you a visual of what regex characters you're selecting and it's been extremely helpful in helping me understand it better.
+
+### Day 35: January 3, 2019
+
+**Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Only managed to solve one scripting challenge tonight, Search and Replace. Had some trouble in the beginning when trying to figure out how to title case a string, then remembered that you can target the first letter of a string by using the charAt() method. At the same time, I learned that using brackets to select a string character (e.g., 'string[0]') is not a good idea because it's not fully supported by all browsers. I also learned that assignment operators (+, +=) offer faster performance when compared to the concat() method, so this is very good to know!
