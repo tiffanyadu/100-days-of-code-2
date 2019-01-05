@@ -250,3 +250,9 @@
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Only managed to solve one scripting challenge tonight, Search and Replace. Had some trouble in the beginning when trying to figure out how to title case a string, then remembered that you can target the first letter of a string by using the charAt() method. I also learned that assignment operators (+, +=) offer faster performance when compared to the concat() method, so this is very good to know!
+
+### Day 36: January 4, 2019
+
+**Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Solved the DNA Pairing challenge without ZERO hints, only documentation, and Missing Letters with just ONE hint, so I'm quite proud of that! Think I'm starting to get a hang of this because it's a bit easier to figure out which method to use and how to use them (with a bit of help from documentation). Excited to keep pushing forward.
