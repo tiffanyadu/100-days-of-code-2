@@ -256,3 +256,9 @@
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Solved the DNA Pairing challenge without ZERO hints, only documentation, and Missing Letters with just ONE hint, so I'm quite proud of that! Think I'm starting to get a hang of this because it's a bit easier to figure out which method to use and how to use them (with a bit of help from documentation). Excited to keep pushing forward.
+
+### Day 37: January 5, 2019
+
+**Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Solved the Sorted Union and Convert HTML Entities challenges without any hints! It may have took a bit longer to figure out, but it's more satisfying to get it right all on my own.
