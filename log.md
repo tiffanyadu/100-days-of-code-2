@@ -262,3 +262,9 @@
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Solved the Sorted Union and Convert HTML Entities challenges without any hints! It may have took a bit longer to figure out, but it's more satisfying to get it right all on my own.
+
+### Day 38: January 6, 2019
+
+**Today's Progress:** Worked on updating my resume and portfolio website.
+
+**Thoughts:** In preparation for my job hunt next month, I updated my resume and fixed the broken twitter widget on my portfolio website tonight. Want to get some new projects added ASAP so I can start applying!
