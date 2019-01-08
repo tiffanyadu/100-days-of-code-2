@@ -268,3 +268,9 @@
 **Today's Progress:** Worked on updating my resume and portfolio website.
 
 **Thoughts:** In preparation for my job hunt next month, I updated my resume and fixed the broken twitter widget on my portfolio website tonight. Want to get some new projects added ASAP so I can start applying!
+
+### Day 39: January 7, 2019
+
+**Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Only got through one scripting challenge tonight – the one called Sum All Odd Fibonacci Numbers really tripped me up! Had a hard time figuring out how to even get the fibonacci sequence output. I ended up using 3 separate variables to store the previous, current, and next values in the sequence. This officially solves the puzzle, but probably isn't the most efficient, so I'll need to check out FreeCodeCamp's solutions to see what they did.
