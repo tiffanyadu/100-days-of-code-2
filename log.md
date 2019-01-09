@@ -274,3 +274,9 @@
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Only got through one scripting challenge tonight – the one called Sum All Odd Fibonacci Numbers really tripped me up! Had a hard time figuring out how to even get the fibonacci sequence output. I ended up using 3 separate variables to store the previous, current, and next values in the sequence. This officially solves the puzzle, but probably isn't the most efficient, so I'll need to check out FreeCodeCamp's solutions to see what they did.
+
+### Day 40: January 7, 2019
+
+**Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Worked on the Sum All Primes scripting challenge for the entire hour - this one has me quite stumped! Can't seem to wrap my mind around how to distinguish a number as prime. Will need to look at this again with fresh eyes tomorrow.
