@@ -275,7 +275,7 @@
 
 **Thoughts:** Only got through one scripting challenge tonight – the one called Sum All Odd Fibonacci Numbers really tripped me up! Had a hard time figuring out how to even get the fibonacci sequence output. I ended up using 3 separate variables to store the previous, current, and next values in the sequence. This officially solves the puzzle, but probably isn't the most efficient, so I'll need to check out FreeCodeCamp's solutions to see what they did.
 
-### Day 40: January 7, 2019
+### Day 40: January 8, 2019
 
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
