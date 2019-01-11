@@ -280,3 +280,9 @@
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Worked on the Sum All Primes scripting challenge for the entire hour - this one has me quite stumped! Can't seem to wrap my mind around how to distinguish a number as prime. Will need to look at this again with fresh eyes tomorrow.
+
+### Day 41: January 10, 2019
+
+**Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Finally solved the Sum All Primes scripting challenge! I had to check out a hint or two before I got it - the "Sieve of Eratosthenes" Wiki page helped tremendously. It broke down how to find a prime number and those steps are what I based my code on. Not sure if it's the most efficient solution, but it works and makes more sense to me than the solutions on FreeCodeCamp.
