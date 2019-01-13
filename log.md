@@ -286,3 +286,9 @@
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Finally solved the Sum All Primes scripting challenge! I had to check out a hint or two before I got it - the "Sieve of Eratosthenes" Wiki page helped tremendously. It broke down how to find a prime number and those steps are what I based my code on. Not sure if it's the most efficient solution, but it works and makes more sense to me than the solutions on FreeCodeCamp.
+
+### Day 42: January 13, 2019
+
+**Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** I feel bad about skipping a couple days again, but social obligations and my mom's birthday mean I don't have enough time or energy to work on this...back at it today though! Worked on the Smallest Common Multiple, Drop It, and Steamroller scripting challenges - not nearly as difficult as a few of the previous ones, so hopefully that means I'm getting better. I can't wait to wrap up this section of FreeCodeCamp though because it's taking forever!
