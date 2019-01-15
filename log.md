@@ -292,3 +292,9 @@
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** I feel bad about skipping a couple days again, but social obligations and my mom's birthday mean I don't have enough time or energy to work on this...back at it today though! Worked on the Smallest Common Multiple, Drop It, and Steamroller scripting challenges - not nearly as difficult as a few of the previous ones, so hopefully that means I'm getting better. I can't wait to wrap up this section of FreeCodeCamp though because it's taking forever!
+
+### Day 43: January 14, 2019
+
+**Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Completed Binary Agents and Everything Be True, but got stuck on Arguments Optional - having trouble understanding how to write recursive functions. Will need to try again tomorrow!!
