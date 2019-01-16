@@ -298,3 +298,9 @@
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Completed Binary Agents and Everything Be True, but got stuck on Arguments Optional - having trouble understanding how to write recursive functions. Will need to try again tomorrow!!
+
+### Day 44: January 15, 2019
+
+**Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Back on the Arguments Optional scripting challenge. Accidentally wrote an infinite loop and broke the page, so I finally caved in and checked out the solutions and realized I needed to return a new function. Not sure why I kept thinking it needed to be recursive, but at least now I know. I also solved Make a Person, so there's only 1 scripting challenge left!
