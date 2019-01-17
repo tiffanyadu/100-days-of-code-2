@@ -304,3 +304,9 @@
 **Today's Progress:** Continued with the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Back on the Arguments Optional scripting challenge. Accidentally wrote an infinite loop and broke the page, so I finally caved in and checked out the solutions and realized I needed to return a new function. Not sure why I kept thinking it needed to be recursive, but at least now I know. I also solved Make a Person, so there's only 1 scripting challenge left!
+
+### Day 45: January 16, 2019
+
+**Today's Progress:** FINALLY completed the Intermediate Algorithm Scripting Challenges and started the JavaScript Algorithms and Data Structures Projects section (Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Glad that math was one of my best subjects in school because this last scripting challenge was quite easy! So happy to be done with this section though because I've spent roughly 15 hours total on it! Completed both Map the Debris and the first project, Palindrome Checker, without any hints so I'd say it's been a good night. 
