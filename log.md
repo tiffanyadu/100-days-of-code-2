@@ -310,3 +310,9 @@
 **Today's Progress:** FINALLY completed the Intermediate Algorithm Scripting Challenges and started the JavaScript Algorithms and Data Structures Projects section (Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Glad that math was one of my best subjects in school because this last scripting challenge was quite easy! So happy to be done with this section though because I've spent roughly 15 hours total on it! Completed both Map the Debris and the first project, Palindrome Checker, without any hints so I'd say it's been a good night. 
+
+### Day 46: January 21, 2019
+
+**Today's Progress:** Continued with the JavaScript Algorithms and Data Structures Projects section (Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** The last 4 days were SUPER busy so I wasn't able to find time to code. Worked on the Roman Numeral Converter today and ended up solving it with a long list of switch statements, which I'm sure is NOT the most efficient code but at least I solved it without any help. When looking at FreeCodeCamp's basic solution, I was surprised that it was able to accommodate for the repeated values with so little code! It's such an elegant solution, I'll need to remember this one for future reference.
