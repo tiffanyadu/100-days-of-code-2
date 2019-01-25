@@ -322,3 +322,9 @@
 **Today's Progress:** Continued with the JavaScript Algorithms and Data Structures Projects section (Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Solved the Caesars Cipher challenge in about 15 minutes with no hints so that was very satisfying. The Telephone Number Validator was much tougher though. I'm able to pass most of the test except for the ones that only has 1 of 2 parentheses and the one that begins with a hyphen. Will need to come back to this tomorrow.
+
+### Day 48: January 24, 2019
+
+**Today's Progress:** Continued with the JavaScript Algorithms and Data Structures Projects section (Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Finally solved the Telephone Number Validator all on my own with no hints although my code is much longer than the Basic Solution from FreeCodeCamp. I knew there was a way to do this with only regex, but I just couldn't wrap my mind around it. The official solution makes sense though and reminded me about the test() method that I could've used, plus I also learned that I could use a ? in regex to note that the previous item is optional. I made a second attempt on this challenge to see if I can write that regex, but had some trouble with using parentheses vs square brackets. Had to peek at the solution a few times in order to do it successfully. Hopefully this will get easier with time and practice!
