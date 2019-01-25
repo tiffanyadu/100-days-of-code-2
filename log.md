@@ -317,7 +317,7 @@
 
 **Thoughts:** The last 4 days were SUPER busy so I wasn't able to find time to code. Worked on the Roman Numeral Converter today and ended up solving it with a long list of switch statements, which I'm sure is NOT the most efficient code but at least I solved it without any help. When looking at FreeCodeCamp's basic solution, I was surprised that it was able to accommodate for the repeated values with so little code! It's such an elegant solution, I'll need to remember this one for future reference.
 
-### Day 47: January 22, 2019
+### Day 47: January 23, 2019
 
 **Today's Progress:** Continued with the JavaScript Algorithms and Data Structures Projects section (Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
