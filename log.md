@@ -328,3 +328,9 @@
 **Today's Progress:** Continued with the JavaScript Algorithms and Data Structures Projects section (Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Finally solved the Telephone Number Validator all on my own with no hints although my code is much longer than the Basic Solution from FreeCodeCamp. I knew there was a way to do this with only regex, but I just couldn't wrap my mind around it. The official solution makes sense though and reminded me about the test() method that I could've used, plus I also learned that I could use a ? in regex to note that the previous item is optional. I made a second attempt on this challenge to see if I can write that regex, but had some trouble with using parentheses vs square brackets. Had to peek at the solution a few times in order to do it successfully. Hopefully this will get easier with time and practice!
+
+### Day 49: January 25, 2019
+
+**Today's Progress:** Continued with the JavaScript Algorithms and Data Structures Projects section (Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
+
+**Thoughts:** Worked on the Cash Register project and was able to figure out how to get the array of exact change. Next, I'll need to figure out how to check the status and whether that should come before or after getting the change. Hopefully I can finish this up tomorrow! 
