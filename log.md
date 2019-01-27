@@ -334,3 +334,9 @@
 **Today's Progress:** Continued with the JavaScript Algorithms and Data Structures Projects section (Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
 **Thoughts:** Worked on the Cash Register project and was able to figure out how to get the array of exact change. Next, I'll need to figure out how to check the status and whether that should come before or after getting the change. Hopefully I can finish this up tomorrow! 
+
+### Day 50: January 27, 2019
+
+**Today's Progress:** Finished the JavaScript Algorithms and Data Structures Projects section and earned the Javascript Algorithms And Data Structures Certification on FreeCodeCamp.
+
+**Thoughts:** Completed the Cash Register project with no hints whatsoever! I even refactored the code a bit afterwards and it ended up being much less code that the official solution, so I'm extremely happy about this. Also very glad to have finally earned the certificate for Javascript Algorithms and Data Structures because I feel like I've been working on this for forever. Excited to move on to the next section, Front End Libraries, where I can FINALLY start getting into some React.
