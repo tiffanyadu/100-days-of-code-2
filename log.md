@@ -340,3 +340,42 @@
 **Today's Progress:** Finished the JavaScript Algorithms and Data Structures Projects section and earned the Javascript Algorithms And Data Structures Certification on FreeCodeCamp.
 
 **Thoughts:** Completed the Cash Register project with no hints whatsoever! I even refactored the code a bit afterwards and it ended up being much less code that the official solution, so I'm extremely happy about this. Also very glad to have finally earned the certificate for Javascript Algorithms and Data Structures because I feel like I've been working on this for forever. Excited to move on to the next section, Front End Libraries, where I can FINALLY start getting into some React.
+
+### Day 51: January 28, 2019
+
+**Today's Progress:** Completed the Sass section of the Front End Libraries Certification at FreeCodeCamp and reviewed the following:
+* variables
+* nesting
+* @mixin & @include
+* @if & @else
+* @for, @each, @while
+* partials & @import
+* @extend
+Also started the React section, reviewed the JSX syntax and finally understand what Babel is for: to compile JSX into valid JavaScript. Learned the following:
+* how to write complex JSX elements and comments
+* how to render HTML elements to the DOM
+* how to define HTML classes in JSX
+* self-closing JSX tags
+
+**Thoughts:** Can't believe I've never learned Sass before! It's such a cool blend of CSS and JavaScript, I never even considered this. Now I will need to find a way to use this in real life. Also, I'm so excited to finally be learning React! This was the main reason for even doing this second round of #100DaysOfCode.
+
+### Day 52: January 29, 2019
+
+**Today's Progress:** Continue with React (Front End Libraries Certification at FreeCodeCamp) and reviewed the following:
+* creating stateless functional components
+* creating React components
+* creating components with composition
+* rendering nested components
+* composing React components
+* rendering class components to the DOM
+* writing React components from scratch
+* passing props to a stateless functional component
+* passing arrays as props
+* using default props
+* overriding default props
+* using propTypes to define the props you expect
+* accessing props using this.props
+* using props with stateless functional components
+* creating stateful components
+
+**Thoughts:** Wow. I made a decent amount of progress, but having to learn React through reading is difficult for my brain to process. Hopefully everything will make more sense when I begin the video tutorials on Udemy.
