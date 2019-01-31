@@ -379,3 +379,16 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 * creating stateful components
 
 **Thoughts:** Wow. I made a decent amount of progress, but having to learn React through reading is difficult for my brain to process. Hopefully everything will make more sense when I begin the video tutorials on Udemy.
+
+### Day 53: January 30, 2019
+
+**Today's Progress:** Continue with React (Front End Libraries Certification at FreeCodeCamp) and reviewed the following:
+* rendering state in the UI
+* setting states with this.setState()
+* binding 'this' to a class method
+* using state to toggle an element
+* writing a simple counter
+* creating controlled inputs and forms
+* passing states as props to child components
+
+**Thoughts:** Got stuck for a minute and thought I was getting the syntax wrong or something, but it turned out I just misspelled "visibility" in one place! It's getting a bit more complex, but I'm still going strong so hopefully I can wrap this up over the next day or two.
