@@ -392,3 +392,18 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 * passing states as props to child components
 
 **Thoughts:** Got stuck for a minute and thought I was getting the syntax wrong or something, but it turned out I just misspelled "visibility" in one place! It's getting a bit more complex, but I'm still going strong so hopefully I can wrap this up over the next day or two.
+
+### Day 54: January 31, 2019
+
+**Today's Progress:** Continue with React (Front End Libraries Certification at FreeCodeCamp) and reviewed the following:
+* passing callbacks as props
+* using the life cycle methods componentWillMount(), componentDidMount(), componentWillReceiveProps(), componentDidUpdate()
+* adding event listeners
+* optimizing re-renders with shouldComponentUpdate()
+* adding inline styles
+* using advanced JavaScript in React render method
+* rendering with an if/else condition
+* using && for a more concise conditional
+* using ternary expressions for conditional rendering
+
+**Thoughts:** Moving slowly, but surely. These React methods will take some time and practice to remember and understand the differences between them. These last few lessons also gave me a much needed refresher of ES6 since I'm totally rusty with writing ternary expressions.
