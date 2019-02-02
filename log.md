@@ -407,3 +407,15 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 * using ternary expressions for conditional rendering
 
 **Thoughts:** Moving slowly, but surely. These React methods will take some time and practice to remember and understand the differences between them. These last few lessons also gave me a much needed refresher of ES6 since I'm totally rusty with writing ternary expressions.
+
+### Day 55: February 1, 2019
+
+**Today's Progress:** Completed the React section (Front End Libraries Certification at FreeCodeCamp) and reviewed the following:
+* rendering conditionally from props
+* changing inline CSS conditionally based on component state
+* using Array.map() to dynamically render elements
+* giving sibling elements a unique key attribute
+* using Array.filter() to dynamically filter arrays
+* rendering React on the server with renderToString() 
+
+**Thoughts:** Had a few hiccups along the way, but that's probably due to me being slightly distracted during this session. Happy to be done with this section though! Redux is next - I have no idea what that even is, so I have no idea what to expect.
