@@ -419,3 +419,26 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 * rendering React on the server with renderToString() 
 
 **Thoughts:** Had a few hiccups along the way, but that's probably due to me being slightly distracted during this session. Happy to be done with this section though! Redux is next - I have no idea what that even is, so I have no idea what to expect.
+
+### Day 56: February 3, 2019
+
+**Today's Progress:** Started and got through most of the Redux section (Front End Libraries Certification at FreeCodeCamp). Reviewed the following:
+* creating a Redux store
+* getting state from the Redux store
+* defining a Redux action
+* defining an action creator
+* dispatching an action event with the .dispatch() method
+* handling actions in the store
+* using a switch statement to handle multiple actions
+* using const for action types
+* registering a store listener with .subscribe() method
+* combining multiple reducers with .combineReducers() method
+* sending action data to the store
+* using middleware to handle asynchronous actions with .applyMiddleware() method
+* writing a counter with Redux
+* never mutate state
+* using the spread operator on arrays
+* removing an item from an array
+* copying an object with Object.assign()
+
+**Thoughts:** Today I learned that Redux is a state management framework whose core task is updating states. Don't fully understand all this new information yet and feeling like I'm somehow stumbling across the right solutions, so hopefully everything will become clear if I keep pushing forward. Maybe these concepts will solidify once I see how Redux works toegher with React in the next section.
