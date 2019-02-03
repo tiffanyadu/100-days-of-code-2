@@ -422,7 +422,7 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 
 ### Day 56: February 3, 2019
 
-**Today's Progress:** Started and got through most of the Redux section (Front End Libraries Certification at FreeCodeCamp). Reviewed the following:
+**Today's Progress:** Started and completed the Redux section (Front End Libraries Certification at FreeCodeCamp). Reviewed the following:
 * creating a Redux store
 * getting state from the Redux store
 * defining a Redux action
