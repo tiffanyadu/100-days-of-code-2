@@ -442,3 +442,9 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 * copying an object with Object.assign()
 
 **Thoughts:** Today I learned that Redux is a state management framework whose core task is updating states. Don't fully understand all this new information yet and feeling like I'm somehow stumbling across the right solutions, so hopefully everything will become clear if I keep pushing forward. Maybe these concepts will solidify once I see how Redux works toegher with React in the next section.
+
+### Day 57: February 5, 2019
+
+**Today's Progress:** Started the Redux and React challenges section (Front End Libraries Certification at FreeCodeCamp).
+
+**Thoughts:** Only managed to get through 3 of these challenges tonight. I really hit a brick wall with that first one because these are forcing me to write everything from scratch and I don't quite remember the syntax correctly yet. I have to reference previous lessons to get through these, but at least reviewing them should help reinforce all of these new concepts I've learned.
