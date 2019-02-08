@@ -457,3 +457,13 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 * connect()
 
 **Thoughts:** Slowly getting the hang of the syntax, but the concepts will take some time. I feel that freeCodeCamp's lessons are a bit too general (and a bit unfinished) to really explain much, so I'm really hoping that the Stephen Grider Udemy course will make it all click.
+
+### Day 59: February 7, 2019
+
+**Today's Progress:** Started the Modern React with Redux course by Stephen Grider on Udemy! My progress:
+* Updated to the latest version of NodeJS
+* Installed create-react-app and generated starter files for a new React app
+* Reviewed how to [Add an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+* Learned about the anatomy of a React app and how to start/stop on a local server
+
+**Thoughts:** Didn't make a whole lot of progress tonight, but I did learn about all the different parts of a React app and how to set up a new project for local development. I also got it all hooked up with GitHub so I can actually share this project's code and track changes. Excited to start building something!
