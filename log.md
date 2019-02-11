@@ -468,7 +468,7 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 
 **Thoughts:** Didn't make a whole lot of progress tonight, but I did learn about all the different parts of a React app and how to set up a new project for local development. I also got it all hooked up with GitHub so I can actually share this project's code and track changes. Excited to start building something!
 
-### Day 60: February 8, 2019
+### Day 60: February 9, 2019
 
 **Today's Progress:** Finished section 1 and started section 2 of the Modern React with Redux course by Stephen Grider on Udemy. My progress:
 * Deleted all the auto-generated files inside the src folder
