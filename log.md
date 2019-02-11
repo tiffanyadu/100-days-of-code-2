@@ -477,3 +477,13 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 * Reviewed and tested the differences between JSX and HTML
 
 **Thoughts:** I really appreciate how Stephen Grider is able to explain everything so thoroughly, yet in a manner that's easy to understand. Didn't make a lot of progress in terms of building, but I do feel like I got a solid understanding of JSX and some of the syntax so far.
+
+### Day 61: February 10, 2019
+
+**Today's Progress:** Finished section 2 of the Modern React with Redux course by Stephen Grider on Udemy. My progress:
+* Reviewed the values that cannot be displayed as text in JSX
+* Created a brand new app to learn about components and create a list of comments
+* Learned about and imported new libraries, Semantic UI and FakerJS
+* Learned how to create, export, and import reusable components
+
+**Thoughts:** Feeling pretty good so far - everything is making more sense than when I was learning via freeCodeCamp. I'm also quite excited about learning how to make reusable, configurable components, so I can't wait to continue this tomorrow and learn about props!
