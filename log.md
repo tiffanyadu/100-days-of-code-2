@@ -487,3 +487,12 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 * Learned how to create, export, and import reusable components
 
 **Thoughts:** Feeling pretty good so far - everything is making more sense than when I was learning via freeCodeCamp. I'm also quite excited about learning how to make reusable, configurable components, so I can't wait to continue this tomorrow and learn about props!
+
+### Day 62: February 11, 2019
+
+**Today's Progress:** Completed section 3 of the Modern React with Redux course by Stephen Grider on Udemy. My progress:
+* Passing & receiving props from parent to child components
+* Passing children element props
+* Reusing components
+
+**Thoughts:** Still going strong! I was able to figure out how to complete parts of the project without needing to copy the instructor's code. Quite fun so far, but I wonder whether class components will be significantly more complex than functional ones.
