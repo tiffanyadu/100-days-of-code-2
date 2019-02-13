@@ -496,3 +496,17 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 * Reusing components
 
 **Thoughts:** Still going strong! I was able to figure out how to complete parts of the project without needing to copy the instructor's code. Quite fun so far, but I wonder whether class components will be significantly more complex than functional ones.
+
+### Day 63: February 12, 2019
+
+**Today's Progress:** Completed section 4 and started section 5 of the Modern React with Redux course by Stephen Grider on Udemy. Reviewed the following:
+* Functional vs. class components, pros and cons of each
+* Created another new React project, Seasons
+* Setting up geolocation
+* Functional component's lifecycle
+* Refactored code to convert functional components into class components
+* Rules of state, the constructor and super functions, setState
+* Handling errors
+* Conditionally rendering content
+
+**Thoughts:** Here we go! Now things are quickly getting more complex. This is definitely a much more substantial lesson on state and how to conditionally render content compared to freeCodeCamp. Still able to figure things out ahead of the instructor, but the true test will be whether I can write all this code from scratch by myself!
