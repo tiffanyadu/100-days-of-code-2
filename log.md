@@ -510,3 +510,15 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 * Conditionally rendering content
 
 **Thoughts:** Here we go! Now things are quickly getting more complex. This is definitely a much more substantial lesson on state and how to conditionally render content compared to freeCodeCamp. Still able to figure things out ahead of the instructor, but the true test will be whether I can write all this code from scratch by myself!
+
+### Day 64: February 13, 2019
+
+**Today's Progress:** Started section 6 of the Modern React with Redux course by Stephen Grider on Udemy. Reviewed the following:
+* Component lifecycle and lifecycle methods: componentDidMount, componentDidUpdate, and componentWillUnmount
+* Why componentDidMount is the best place to put data-loading code
+* Alternate way of initializing state
+* Passing state as props
+* Ternary expressions in JSX
+* Template strings (ES2015)
+
+**Thoughts:** This Seasons app is coming along pretty well. I had to use a couple of ES6 items that I totally forgot about, but I'm glad to have reviewed them. Got the logic working properly to display the correct season based on the user's geolocation and also refactored the code quite a bit. Up next is styling the app (finally)!
