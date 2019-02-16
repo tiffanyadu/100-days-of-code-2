@@ -522,3 +522,11 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 * Template strings (ES2015)
 
 **Thoughts:** This Seasons app is coming along pretty well. I had to use a couple of ES6 items that I totally forgot about, but I'm glad to have reviewed them. Got the logic working properly to display the correct season based on the user's geolocation and also refactored the code quite a bit. Up next is styling the app (finally)!
+
+### Day 65: February 15, 2019
+
+**Today's Progress:** Continued with section 6 of the Modern React with Redux course by Stephen Grider on Udemy. Reviewed the following:
+* defaultProps
+* Avoiding conditionals in Render
+
+**Thoughts:** Didn't really learn any new concepts tonight, but these lessons reviewed everything I've learned so far and gave me really good practice with components and state. Also got to see some best practices for styling components (my forte) so I'm excited to keep going!
