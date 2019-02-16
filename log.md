@@ -525,7 +525,7 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 
 ### Day 65: February 15, 2019
 
-**Today's Progress:** Continued with section 6 of the Modern React with Redux course by Stephen Grider on Udemy. Reviewed the following:
+**Today's Progress:** Completed section 6 of the Modern React with Redux course by Stephen Grider on Udemy. Reviewed the following:
 * defaultProps
 * Avoiding conditionals in Render
 
