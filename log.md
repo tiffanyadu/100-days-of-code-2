@@ -555,7 +555,7 @@
 
 ### Day 66: February 17, 2019
 
-**Today's Progress:** Started section 7 of the Modern React with Redux course by Stephen Grider on Udemy and began process of building a new React app that fetches photos based on user search. My progress:
+**Today's Progress:** Completed section 7 of the Modern React with Redux course by Stephen Grider on Udemy and began process of building a new React app that fetches photos based on user search. My progress:
 
 - Set up new React project with separate components for App and SearchBar
 - Styled the SearchBar and App container a bit
