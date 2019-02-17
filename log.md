@@ -32,21 +32,21 @@
 
 ### Day 6: November 3, 2018
 
-**Today's Progress:** Completed the Applied Accessibility, Responsive Web Design Principles, and CSS Flexbox sections of FCC's RWD Certification. 
+**Today's Progress:** Completed the Applied Accessibility, Responsive Web Design Principles, and CSS Flexbox sections of FCC's RWD Certification.
 
 **Thoughts:** I knew about flex-grow, but did not fully understand flex-shrink or flex-basis until now. These will definitely come in handy when setting sizing and proportions of children elements of a flex box.
 
 ### Day 7: November 4, 2018
 
-**Today's Progress:**  Completed the CSS Grid section of FCC's RWD Certification. Went back to an old pen (on CodePen) and improved it.
+**Today's Progress:** Completed the CSS Grid section of FCC's RWD Certification. Went back to an old pen (on CodePen) and improved it.
 
-**Thoughts:** Re-learning CSS grid has me feeling excited all over again! Too bad it's not 100% supported across browsers just yet, but it's a step in the right direction so it would be *amazing* if it becomes the standard in a few years. Was about to start one of the RWD projects, but then an old pen caught my eye. I was testing out how to implement a "frosted glass" look since I keep seeing them used in UI design. Upon revisiting, I cleaned up the code a bit and decided to fix the backgrounds so it looks as though the image is "moving" behind the frosted glass. Pretty happy with how it turned out!
+**Thoughts:** Re-learning CSS grid has me feeling excited all over again! Too bad it's not 100% supported across browsers just yet, but it's a step in the right direction so it would be _amazing_ if it becomes the standard in a few years. Was about to start one of the RWD projects, but then an old pen caught my eye. I was testing out how to implement a "frosted glass" look since I keep seeing them used in UI design. Upon revisiting, I cleaned up the code a bit and decided to fix the backgrounds so it looks as though the image is "moving" behind the frosted glass. Pretty happy with how it turned out!
 
 ### Day 8: November 5, 2018
 
-**Today's Progress:** Installed node.js, npm, and http-server to set up a command line http server to use for local development. Got through the Getting Started Guide for Phaser.io so now I'm all set up to learn how to create my very own 2D platform game. 
+**Today's Progress:** Installed node.js, npm, and http-server to set up a command line http server to use for local development. Got through the Getting Started Guide for Phaser.io so now I'm all set up to learn how to create my very own 2D platform game.
 
-**Thoughts:** I saw GitHub promoting this Game Off challenge, and I'm thinking about participating! Assuming Phaser.io isn't too difficult to learn, this sounds like a fun project and I'm excited to begin! It took a while to install all the required elements needed for local development, but at least it's all ready to go now. 
+**Thoughts:** I saw GitHub promoting this Game Off challenge, and I'm thinking about participating! Assuming Phaser.io isn't too difficult to learn, this sounds like a fun project and I'm excited to begin! It took a while to install all the required elements needed for local development, but at least it's all ready to go now.
 
 ### Day 9: November 6, 2018
 
@@ -111,55 +111,60 @@
 ### Day 19: November 19, 2018
 
 **Today's Progress:** Worked on the ES6 section (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp. Reviewed the following:
-* let vs. const
-* Object.freeze()
-* arrow functions
-* map(), filter(), and reduce() methods
-* default parameters
-* rest and spread operators
-* destructuring assigment
+
+- let vs. const
+- Object.freeze()
+- arrow functions
+- map(), filter(), and reduce() methods
+- default parameters
+- rest and spread operators
+- destructuring assigment
 
 **Thoughts:** I remember most of this from last year, but struggled a bit with the destructuring assignment portion. Got to keep pushing forward!
 
 ### Day 20: November 20, 2018
 
 **Today's Progress:** Completed the ES6 section (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp. Reviewed the following:
-* template & object literals
-* constructor functions
-* get & set functions
-* import, require, export, & export defaults
+
+- template & object literals
+- constructor functions
+- get & set functions
+- import, require, export, & export defaults
 
 **Thoughts:** Either I'm brain-dead tonight or this last bit of the ES6 section is dense! Having a hard time understanding the concepts as well as when and why I would use them. Maybe this will all become clearer later on when I get a chance to actually practice using them.
 
 ### Day 21: November 21, 2018
 
 **Today's Progress:** Started the Regular Expressions section (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp. Reviewed the following:
-* test() and match() methods
-* i and g flags
-* wildcard dot/period
-* character classes + shorthand
+
+- test() and match() methods
+- i and g flags
+- wildcard dot/period
+- character classes + shorthand
 
 **Thoughts:** Feel like I have a better understanding of the regex syntax after going through this lesson – it's still a lot to remember though.
 
 ### Day 22: November 23, 2018
 
 **Today's Progress:** Finished the Regular Expressions and started the Debugging sections (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp. Reviewed the following:
-* how to specify upper, lower, and exact number of matches and how to check for all or none
-* positive & negative lookaheads
-* capture groups
+
+- how to specify upper, lower, and exact number of matches and how to check for all or none
+- positive & negative lookaheads
+- capture groups
 
 **Thoughts:** Feeling quite confused with the more complicated concepts towards the end of the RegEx lessons. Maybe it will just take some practice to get comfortable with lookaheads and capture groups, but I had a hard time solving the last couple of challenges without any hints.
 
 ### Day 23: November 24, 2018
 
 **Today's Progress:** Finished the Debugging and Basic Data Structures sections (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp. Reviewed the following:
-* console.log & console.clear
-* typeof method
-* common mistakes to watch out for
-* reinitializing variables inside a loop
-* splice() & slice() array methods
-* copying and combining arrats with spread operator
-* add, modify, remove, & iterate through keys in objects
+
+- console.log & console.clear
+- typeof method
+- common mistakes to watch out for
+- reinitializing variables inside a loop
+- splice() & slice() array methods
+- copying and combining arrats with spread operator
+- add, modify, remove, & iterate through keys in objects
 
 **Thoughts:** Glad that the Basic Data Structure lessons reviewed concepts from earlier lessons because I barely remember how to use them! Will be starting the Basic Algorithm Scripting challenges tomorrow, so we'll see how much of this info I've actually retained.
 
@@ -185,21 +190,22 @@
 
 **Today's Progress:** Completed the Basic Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
-**Thoughts:** Had to look up the answer for Falsey Bouncer, but still don't quite understand how the filter method works with the Boolean value. Also had a lot of trouble with the last challenge, Chunky Monkey! Need to review how/why this code works. 
+**Thoughts:** Had to look up the answer for Falsey Bouncer, but still don't quite understand how the filter method works with the Boolean value. Also had a lot of trouble with the last challenge, Chunky Monkey! Need to review how/why this code works.
 
 ### Day 28: December 2, 2018
 
 **Today's Progress:** Completed the Object Oriented Programming section and started the Functional Programming Challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp. Reviewed the following:
-* Objects - properties & methods
-* Constructors
-* Own & prototype properties
-* Changing prototypes into new objects
-* instanceof & isPrototypeOf methods
-* Prototype chain, Supertypes, inheritance, mixins
-* Closures & private properties
-* Immediated Invoked Function Expressions (IIFE) & using it to create a module
-* Callbacks, first class vs. higher order functions
-* Mutations, side effects, & pure functions
+
+- Objects - properties & methods
+- Constructors
+- Own & prototype properties
+- Changing prototypes into new objects
+- instanceof & isPrototypeOf methods
+- Prototype chain, Supertypes, inheritance, mixins
+- Closures & private properties
+- Immediated Invoked Function Expressions (IIFE) & using it to create a module
+- Callbacks, first class vs. higher order functions
+- Mutations, side effects, & pure functions
 
 **Thoughts:** I think I have a pretty good grasp on Objects and Constructors and how to manipulate them. The functional programming concepts are making sense so far, but we'll see how complex this section's lessons get.
 
@@ -212,18 +218,20 @@
 ### Day 30: December 4, 2018
 
 **Today's Progress:** Continued with the Functional Programming challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp and reviewed the following:
-* slice vs. splice methods
-* concat vs. push methods
-* reduce vs. filter vs. map methods
-* sort, split, join methods
+
+- slice vs. splice methods
+- concat vs. push methods
+- reduce vs. filter vs. map methods
+- sort, split, join methods
 
 **Thoughts:** This is such a great section of FCC! So glad to get more practice with all those methods to solve these simpler puzzles. Much more digestible compared to some of the previous scripting challenges!
 
 ### Day 31: December 5, 2018
 
 **Today's Progress:** Finally done with the Functional Programming section and started the Intermediate Algorithm Scripting challenges (of Javascript Algorithms And Data Structures Certification) on FreeCodeCamp and reviewed the following:
-* every & some methods
-* currying & partial application
+
+- every & some methods
+- currying & partial application
 
 **Thoughts:** Here we go – I was right to anticipate having difficulties with these challenges. Got stuck on the second one, "Diff Two Arrays". Not quite sure how to approach this challenge, but hopefully a fresh start tomorrow will help.
 
@@ -309,7 +317,7 @@
 
 **Today's Progress:** FINALLY completed the Intermediate Algorithm Scripting Challenges and started the JavaScript Algorithms and Data Structures Projects section (Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
-**Thoughts:** Glad that math was one of my best subjects in school because this last scripting challenge was quite easy! So happy to be done with this section though because I've spent roughly 15 hours total on it! Completed both Map the Debris and the first project, Palindrome Checker, without any hints so I'd say it's been a good night. 
+**Thoughts:** Glad that math was one of my best subjects in school because this last scripting challenge was quite easy! So happy to be done with this section though because I've spent roughly 15 hours total on it! Completed both Map the Debris and the first project, Palindrome Checker, without any hints so I'd say it's been a good night.
 
 ### Day 46: January 21, 2019
 
@@ -333,7 +341,7 @@
 
 **Today's Progress:** Continued with the JavaScript Algorithms and Data Structures Projects section (Javascript Algorithms And Data Structures Certification) on FreeCodeCamp.
 
-**Thoughts:** Worked on the Cash Register project and was able to figure out how to get the array of exact change. Next, I'll need to figure out how to check the status and whether that should come before or after getting the change. Hopefully I can finish this up tomorrow! 
+**Thoughts:** Worked on the Cash Register project and was able to figure out how to get the array of exact change. Next, I'll need to figure out how to check the status and whether that should come before or after getting the change. Hopefully I can finish this up tomorrow!
 
 ### Day 50: January 27, 2019
 
@@ -344,102 +352,108 @@
 ### Day 51: January 28, 2019
 
 **Today's Progress:** Completed the Sass section of the Front End Libraries Certification at FreeCodeCamp and reviewed the following:
-* variables
-* nesting
-* @mixin & @include
-* @if & @else
-* @for, @each, @while
-* partials & @import
-* @extend
-Also started the React section, reviewed the JSX syntax and finally understand what Babel is for: to compile JSX into valid JavaScript. Learned the following:
-* how to write complex JSX elements and comments
-* how to render HTML elements to the DOM
-* how to define HTML classes in JSX
-* self-closing JSX tags
+
+- variables
+- nesting
+- @mixin & @include
+- @if & @else
+- @for, @each, @while
+- partials & @import
+- @extend
+  Also started the React section, reviewed the JSX syntax and finally understand what Babel is for: to compile JSX into valid JavaScript. Learned the following:
+- how to write complex JSX elements and comments
+- how to render HTML elements to the DOM
+- how to define HTML classes in JSX
+- self-closing JSX tags
 
 **Thoughts:** Can't believe I've never learned Sass before! It's such a cool blend of CSS and JavaScript, I never even considered this. Now I will need to find a way to use this in real life. Also, I'm so excited to finally be learning React! This was the main reason for even doing this second round of #100DaysOfCode.
 
 ### Day 52: January 29, 2019
 
 **Today's Progress:** Continue with React (Front End Libraries Certification at FreeCodeCamp) and reviewed the following:
-* creating stateless functional components
-* creating React components
-* creating components with composition
-* rendering nested components
-* composing React components
-* rendering class components to the DOM
-* writing React components from scratch
-* passing props to a stateless functional component
-* passing arrays as props
-* using default props
-* overriding default props
-* using propTypes to define the props you expect
-* accessing props using this.props
-* using props with stateless functional components
-* creating stateful components
+
+- creating stateless functional components
+- creating React components
+- creating components with composition
+- rendering nested components
+- composing React components
+- rendering class components to the DOM
+- writing React components from scratch
+- passing props to a stateless functional component
+- passing arrays as props
+- using default props
+- overriding default props
+- using propTypes to define the props you expect
+- accessing props using this.props
+- using props with stateless functional components
+- creating stateful components
 
 **Thoughts:** Wow. I made a decent amount of progress, but having to learn React through reading is difficult for my brain to process. Hopefully everything will make more sense when I begin the video tutorials on Udemy.
 
 ### Day 53: January 30, 2019
 
 **Today's Progress:** Continue with React (Front End Libraries Certification at FreeCodeCamp) and reviewed the following:
-* rendering state in the UI
-* setting states with this.setState()
-* binding 'this' to a class method
-* using state to toggle an element
-* writing a simple counter
-* creating controlled inputs and forms
-* passing states as props to child components
+
+- rendering state in the UI
+- setting states with this.setState()
+- binding 'this' to a class method
+- using state to toggle an element
+- writing a simple counter
+- creating controlled inputs and forms
+- passing states as props to child components
 
 **Thoughts:** Got stuck for a minute and thought I was getting the syntax wrong or something, but it turned out I just misspelled "visibility" in one place! It's getting a bit more complex, but I'm still going strong so hopefully I can wrap this up over the next day or two.
 
 ### Day 54: January 31, 2019
 
 **Today's Progress:** Continue with React (Front End Libraries Certification at FreeCodeCamp) and reviewed the following:
-* passing callbacks as props
-* using the life cycle methods componentWillMount(), componentDidMount(), componentWillReceiveProps(), componentDidUpdate()
-* adding event listeners
-* optimizing re-renders with shouldComponentUpdate()
-* adding inline styles
-* using advanced JavaScript in React render method
-* rendering with an if/else condition
-* using && for a more concise conditional
-* using ternary expressions for conditional rendering
+
+- passing callbacks as props
+- using the life cycle methods componentWillMount(), componentDidMount(), componentWillReceiveProps(), componentDidUpdate()
+- adding event listeners
+- optimizing re-renders with shouldComponentUpdate()
+- adding inline styles
+- using advanced JavaScript in React render method
+- rendering with an if/else condition
+- using && for a more concise conditional
+- using ternary expressions for conditional rendering
 
 **Thoughts:** Moving slowly, but surely. These React methods will take some time and practice to remember and understand the differences between them. These last few lessons also gave me a much needed refresher of ES6 since I'm totally rusty with writing ternary expressions.
 
 ### Day 55: February 1, 2019
 
 **Today's Progress:** Completed the React section (Front End Libraries Certification at FreeCodeCamp) and reviewed the following:
-* rendering conditionally from props
-* changing inline CSS conditionally based on component state
-* using Array.map() to dynamically render elements
-* giving sibling elements a unique key attribute
-* using Array.filter() to dynamically filter arrays
-* rendering React on the server with renderToString() 
+
+- rendering conditionally from props
+- changing inline CSS conditionally based on component state
+- using Array.map() to dynamically render elements
+- giving sibling elements a unique key attribute
+- using Array.filter() to dynamically filter arrays
+- rendering React on the server with renderToString()
 
 **Thoughts:** Had a few hiccups along the way, but that's probably due to me being slightly distracted during this session. Happy to be done with this section though! Redux is next - I have no idea what that even is, so I have no idea what to expect.
 
 ### Day 56: February 3, 2019
 
 **Today's Progress:** Started and completed the Redux section (Front End Libraries Certification at FreeCodeCamp). Reviewed the following:
-* creating a Redux store
-* getting state from the Redux store
-* defining a Redux action
-* defining an action creator
-* dispatching an action event with the .dispatch() method
-* handling actions in the store
-* using a switch statement to handle multiple actions
-* using const for action types
-* registering a store listener with .subscribe() method
-* combining multiple reducers with .combineReducers() method
-* sending action data to the store
-* using middleware to handle asynchronous actions with .applyMiddleware() method
-* writing a counter with Redux
-* never mutate state
-* using the spread operator on arrays
-* removing an item from an array
-* copying an object with Object.assign()
+
+- creating a Redux store
+- getting state from the Redux store
+- defining a Redux action
+- defining an action creator
+- dispatching an action event with the .dispatch() method
+- handling actions in the store
+- using a switch statement to handle multiple actions
+- using const for action types
+- registering a store listener with .subscribe() method
+- combining multiple reducers with .combineReducers() method
+- sending action data to the store
+- using middleware to handle asynchronous actions with .applyMiddleware() method
+- writing a counter with Redux
+- never mutate state
+- using the spread operator on arrays
+- removing an item from an array
+- copying an object with Object.assign()
 
 **Thoughts:** Today I learned that Redux is a state management framework whose core task is updating states. Don't fully understand all this new information yet and feeling like I'm somehow stumbling across the right solutions, so hopefully everything will become clear if I keep pushing forward. Maybe these concepts will solidify once I see how Redux works toegher with React in the next section.
 
@@ -452,81 +466,102 @@ Also started the React section, reviewed the JSX syntax and finally understand w
 ### Day 58: February 6, 2019
 
 **Today's Progress:** Completed the Redux and React challenges section (Front End Libraries Certification at FreeCodeCamp). Reviewed the following:
-* mapStateToProps()
-* mapDispatchToProps()
-* connect()
+
+- mapStateToProps()
+- mapDispatchToProps()
+- connect()
 
 **Thoughts:** Slowly getting the hang of the syntax, but the concepts will take some time. I feel that freeCodeCamp's lessons are a bit too general (and a bit unfinished) to really explain much, so I'm really hoping that the Stephen Grider Udemy course will make it all click.
 
 ### Day 59: February 7, 2019
 
 **Today's Progress:** Started the Modern React with Redux course by Stephen Grider on Udemy! My progress:
-* Updated to the latest version of NodeJS
-* Installed create-react-app and generated starter files for a new React app
-* Reviewed how to [Add an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
-* Learned about the anatomy of a React app and how to start/stop on a local server
+
+- Updated to the latest version of NodeJS
+- Installed create-react-app and generated starter files for a new React app
+- Reviewed how to [Add an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+- Learned about the anatomy of a React app and how to start/stop on a local server
 
 **Thoughts:** Didn't make a whole lot of progress tonight, but I did learn about all the different parts of a React app and how to set up a new project for local development. I also got it all hooked up with GitHub so I can actually share this project's code and track changes. Excited to start building something!
 
 ### Day 60: February 9, 2019
 
 **Today's Progress:** Finished section 1 and started section 2 of the Modern React with Redux course by Stephen Grider on Udemy. My progress:
-* Deleted all the auto-generated files inside the src folder
-* Created the index.js file
-* Imported React and ReactDOM libraries, created a React component, and rendered it using ReactDOM
-* Reviewed and tested the differences between JSX and HTML
+
+- Deleted all the auto-generated files inside the src folder
+- Created the index.js file
+- Imported React and ReactDOM libraries, created a React component, and rendered it using ReactDOM
+- Reviewed and tested the differences between JSX and HTML
 
 **Thoughts:** I really appreciate how Stephen Grider is able to explain everything so thoroughly, yet in a manner that's easy to understand. Didn't make a lot of progress in terms of building, but I do feel like I got a solid understanding of JSX and some of the syntax so far.
 
 ### Day 61: February 10, 2019
 
 **Today's Progress:** Finished section 2 of the Modern React with Redux course by Stephen Grider on Udemy. My progress:
-* Reviewed the values that cannot be displayed as text in JSX
-* Created a brand new app to learn about components and create a list of comments
-* Learned about and imported new libraries, Semantic UI and FakerJS
-* Learned how to create, export, and import reusable components
+
+- Reviewed the values that cannot be displayed as text in JSX
+- Created a brand new app to learn about components and create a list of comments
+- Learned about and imported new libraries, Semantic UI and FakerJS
+- Learned how to create, export, and import reusable components
 
 **Thoughts:** Feeling pretty good so far - everything is making more sense than when I was learning via freeCodeCamp. I'm also quite excited about learning how to make reusable, configurable components, so I can't wait to continue this tomorrow and learn about props!
 
 ### Day 62: February 11, 2019
 
 **Today's Progress:** Completed section 3 of the Modern React with Redux course by Stephen Grider on Udemy. My progress:
-* Passing & receiving props from parent to child components
-* Passing children element props
-* Reusing components
+
+- Passing & receiving props from parent to child components
+- Passing children element props
+- Reusing components
 
 **Thoughts:** Still going strong! I was able to figure out how to complete parts of the project without needing to copy the instructor's code. Quite fun so far, but I wonder whether class components will be significantly more complex than functional ones.
 
 ### Day 63: February 12, 2019
 
 **Today's Progress:** Completed section 4 and started section 5 of the Modern React with Redux course by Stephen Grider on Udemy. Reviewed the following:
-* Functional vs. class components, pros and cons of each
-* Created another new React project, Seasons
-* Setting up geolocation
-* Functional component's lifecycle
-* Refactored code to convert functional components into class components
-* Rules of state, the constructor and super functions, setState
-* Handling errors
-* Conditionally rendering content
+
+- Functional vs. class components, pros and cons of each
+- Created another new React project, Seasons
+- Setting up geolocation
+- Functional component's lifecycle
+- Refactored code to convert functional components into class components
+- Rules of state, the constructor and super functions, setState
+- Handling errors
+- Conditionally rendering content
 
 **Thoughts:** Here we go! Now things are quickly getting more complex. This is definitely a much more substantial lesson on state and how to conditionally render content compared to freeCodeCamp. Still able to figure things out ahead of the instructor, but the true test will be whether I can write all this code from scratch by myself!
 
 ### Day 64: February 13, 2019
 
 **Today's Progress:** Started section 6 of the Modern React with Redux course by Stephen Grider on Udemy. Reviewed the following:
-* Component lifecycle and lifecycle methods: componentDidMount, componentDidUpdate, and componentWillUnmount
-* Why componentDidMount is the best place to put data-loading code
-* Alternate way of initializing state
-* Passing state as props
-* Ternary expressions in JSX
-* Template strings (ES2015)
+
+- Component lifecycle and lifecycle methods: componentDidMount, componentDidUpdate, and componentWillUnmount
+- Why componentDidMount is the best place to put data-loading code
+- Alternate way of initializing state
+- Passing state as props
+- Ternary expressions in JSX
+- Template strings (ES2015)
 
 **Thoughts:** This Seasons app is coming along pretty well. I had to use a couple of ES6 items that I totally forgot about, but I'm glad to have reviewed them. Got the logic working properly to display the correct season based on the user's geolocation and also refactored the code quite a bit. Up next is styling the app (finally)!
 
 ### Day 65: February 15, 2019
 
 **Today's Progress:** Completed section 6 of the Modern React with Redux course by Stephen Grider on Udemy. Reviewed the following:
-* defaultProps
-* Avoiding conditionals in Render
+
+- defaultProps
+- Avoiding conditionals in Render
 
 **Thoughts:** Didn't really learn any new concepts tonight, but these lessons reviewed everything I've learned so far and gave me really good practice with components and state. Also got to see some best practices for styling components (my forte) so I'm excited to keep going!
+
+### Day 66: February 17, 2019
+
+**Today's Progress:** Started section 7 of the Modern React with Redux course by Stephen Grider on Udemy and began process of building a new React app that fetches photos based on user search. My progress:
+
+- Set up new React project with separate components for App and SearchBar
+- Styled the SearchBar and App container a bit
+- Learned that no parentheses are needed when adding a callback function to an event handler – using parentheses calls that function immediately
+- Wrote a couple of event handlers for form submission and learned about using abbreviated syntax
+- Reviewed controlled vs. uncontrolled elements, 'this', and how to solve context errors
+- Passed search term value from child to parent App component
+
+**Thoughts:** Made some decent progress today. Think I finally have a good understanding of 'this' and how to figure out what it's referring to at any given point in time.
