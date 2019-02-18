@@ -565,3 +565,17 @@
 - Passed search term value from child to parent App component
 
 **Thoughts:** Made some decent progress today. Think I finally have a good understanding of 'this' and how to figure out what it's referring to at any given point in time.
+
+### Day 67: February 18, 2019
+
+**Today's Progress:** Finished sections 8-9 of the Modern React with Redux course by Stephen Grider on Udemy and continued building that same photo-fetching project. My progress:
+
+- Installed axios and set up GET request to Unsplash API
+- Learned about promises and .then() vs. async and await
+- Output number of returned images to DOM
+- Refactored axios code and moved to separate customized client
+- Created ImageList component and passed image props from parent App component
+- Reviewed map method and destructuring parameters
+- Key properties in lists
+
+**Thoughts:** Finally have images rendered to the page! These lessons gave me a good review of GET requests as well as a few JavaScript concepts I'm not very familiar with, namely promises, async/await, and destructuring. Excited to style this further and get that masonry layout going!
