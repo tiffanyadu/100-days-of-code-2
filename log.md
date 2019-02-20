@@ -579,3 +579,14 @@
 - Key properties in lists
 
 **Thoughts:** Finally have images rendered to the page! These lessons gave me a good review of GET requests as well as a few JavaScript concepts I'm not very familiar with, namely promises, async/await, and destructuring. Excited to style this further and get that masonry layout going!
+
+### Day 68: February 19, 2019
+
+**Today's Progress:** Completed section 10 of the Modern React with Redux course by Stephen Grider on Udemy and finished building version 2 of the photo-fetching project. My progress:
+
+- Reviewed CSS grid and styled image list into a masonry grid
+- Created ImageCard component
+- Learned about React Refs and used it to find the image height after it loads in the DOM
+- Calculated spans and used value to style/space images apart evenly
+
+**Thoughts:** This project was a success! Such great practice with components and using all I've learned so far. It really bothered me that the masonry grid wasn't perfect, but I will need to move past that because styling is not the focus of these lessons. On to the next!
