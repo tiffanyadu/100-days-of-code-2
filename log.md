@@ -590,3 +590,13 @@
 - Calculated spans and used value to style/space images apart evenly
 
 **Thoughts:** This project was a success! Such great practice with components and using all I've learned so far. It really bothered me that the masonry grid wasn't perfect, but I will need to move past that because styling is not the focus of these lessons. On to the next!
+
+### Day 69: February 20, 2019
+
+**Today's Progress:** Started section 11 of the Modern React with Redux course by Stephen Grider on Udemy and started a brand new project building a YouTube-like video application using the YouTube API. My progress:
+
+- Set up boilerplate for new project
+- Learned about YouTube API and how to implement it
+- Used axios to send a GET request to YouTube and receive data for video results
+
+**Thoughts:** Although Stephen said this section was optional, I could NOT pass up the opportunity to practice building another React application. How else am I going to learn and memorize all the new concepts and syntax? This video app is coming together quite quickly - already have the search bar functionality done! Excited to keep going because everything seems to be clicking in my brain so far!
