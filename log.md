@@ -612,3 +612,15 @@
 - Started VideoDetail component and rendered selected video title and description to page
 
 **Thoughts:** This project got quite complex pretty quickly! I think I get it, but it did take some time to wrap my mind around nested callbacks and how information is being passed back and forth between parent and child components.
+
+### Day 71: February 22, 2019
+
+**Today's Progress:** Completed section 11 of the Modern React with Redux course by Stephen Grider on Udemy and finished building the video application! My progress:
+
+- Added video embed to page
+- Styled layout with Semantic UI
+- Set first video result to display after submitting search
+- Set default search term so a video is displayed after loading using the componentDidMount method
+- Learned [how to deploy a React app to GitHub pages](https://medium.com/the-andela-way/how-to-deploy-your-react-application-to-github-pages-in-less-than-5-minutes-8c5f665a2d2a)!
+
+**Thoughts:** What a cool project! Happy to be done with this and also extremely glad that I finally learned how to deploy React apps to GitHub pages at the very least. Now I can share these projects! I wonder what's up next?
