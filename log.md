@@ -601,7 +601,7 @@
 
 **Thoughts:** Although Stephen said this section was optional, I could NOT pass up the opportunity to practice building another React application. How else am I going to learn and memorize all the new concepts and syntax? This video app is coming together quite quickly - already have the search bar functionality done! Excited to keep going because everything seems to be clicking in my brain so far!
 
-### Day 70: February 20, 2019
+### Day 70: February 21, 2019
 
 **Today's Progress:** Continued with section 11 of the Modern React with Redux course by Stephen Grider on Udemy and continued working on the same video application. My progress:
 
