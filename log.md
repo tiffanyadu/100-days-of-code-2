@@ -635,3 +635,16 @@
 - Redux cycle
 
 **Thoughts:** Just got an overview of what Redux is and how it works - this was definitely more thorough that what I learned on freeCodeCamp! I liked how Stephen Grider explained it with an analogy because that made it easier to comprehend. Looking forward to better understand how to use it with React!
+
+### Day 73: February 25, 2019
+
+**Today's Progress:** Started section 13 of the Modern React with Redux course by Stephen Grider on Udemy and worked on a simple song app. My progress:
+
+- Learned how React-Redux library works to integrate the two together
+- Reviewed the Provider and Connect components
+- Learned about named exports and the correct syntax used to import them
+- Created redux actions and reducers in separate folders
+- Wired up Provider and Connect
+- Learned that React.Component can be imported as a named object instead
+
+**Thoughts:** This app build is quite different from the previous ones so far. Don't fully comprehend how Provider and Connect work just yet, so hopefully it makes sense after completing this section.
