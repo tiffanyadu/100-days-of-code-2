@@ -648,3 +648,13 @@
 - Learned that React.Component can be imported as a named object instead
 
 **Thoughts:** This app build is quite different from the previous ones so far. Don't fully comprehend how Provider and Connect work just yet, so hopefully it makes sense after completing this section.
+
+### Day 74: February 27, 2019
+
+**Today's Progress:** Finished section 13 of the Modern React with Redux course by Stephen Grider on Udemy and worked on a simple song app. My progress:
+
+- Learned to configure connect with a mapStateToProps function (common naming convention) in order to map state as props of component
+- Learned the syntax to add actions to connect
+- Finished building song app to have song details render to page when you select a song
+
+**Thoughts:** Not too bad. Think I'm getting the hang of it because I was able to pass the coding challenge at the end of this section on the first try without any help, but I could definitely use more practice!
