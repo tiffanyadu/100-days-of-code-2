@@ -658,3 +658,13 @@
 - Finished building song app to have song details render to page when you select a song
 
 **Thoughts:** Not too bad. Think I'm getting the hang of it because I was able to pass the coding challenge at the end of this section on the first try without any help, but I could definitely use more practice!
+
+### Day 75: February 28, 2019
+
+**Today's Progress:** Almost done with section 14 of the Modern React with Redux course by Stephen Grider on Udemy and began building another simple app to help me better understand Redux. My progress:
+
+- Learned about the JSONPlaceholder API, which is similar to Faker and has placeholder content to use
+- Quickly reviewed and set up boilerplate for a React/Redux app
+- Learned that actions must be plain objects and cannot make requests to APIs, which is the reason why we need Redux-Thunk
+
+**Thoughts:** Wow, he went through that boilerplate creation pretty quickly. Somehow it feels more unfamiliar with Redux and having to create actions and reducers right off the bat. I guess it just takes time and practice, so I need to push through this!
