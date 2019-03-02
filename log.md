@@ -668,3 +668,14 @@
 - Learned that actions must be plain objects and cannot make requests to APIs, which is the reason why we need Redux-Thunk
 
 **Thoughts:** Wow, he went through that boilerplate creation pretty quickly. Somehow it feels more unfamiliar with Redux and having to create actions and reducers right off the bat. I guess it just takes time and practice, so I need to push through this!
+
+### Day 76: March 1, 2019
+
+**Today's Progress:** Completed section 14 of the Modern React with Redux course by Stephen Grider on Udemy and began building another simple app to help me better understand Redux. My progress:
+
+- Learned that the async/await syntax causes the "Action must be plain objects" error and why it causes that error. Also learned that this error can be fixed by removing that syntax and instead return data as a promise in the payload
+- Reviewed Synchronous vs. Asynchronous action creators and how async requires middleware
+- Learned about middleware, specifically Redux-Thunks, what it does, and how to wire it up to the Redux store
+- Refactored action creator with syntax that works with Redux Thunk
+
+**Thoughts:** I'm so surprised that Redux Thunk contains just a few lines of code! Definitely learned a lot of new things about middleware, how it works, and how to get it wired up with a React app. Need to get some more hands-on practice though.
