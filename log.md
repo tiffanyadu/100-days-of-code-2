@@ -682,7 +682,7 @@
 
 ### Day 77: March 3, 2019
 
-**Today's Progress:** Started section 15 of the Modern React with Redux course by Stephen Grider on Udemy and began building another simple app to help me better understand Redux. My progress:
+**Today's Progress:** Started section 15 of the Modern React with Redux course by Stephen Grider on Udemy and continued building the same blog app. My progress:
 
 - Reviewed the rules of reducers to learn how they really work - reducers must return a value other than undefined, must use ONLY previous state and action to return 'state', never return data from any other source (APIs, DOM, etc.), and must NOT mutate its input 'state' argument
 - Learned that if reducer returns a mutated state argument, Redux will think that nothing has changed and therefore the app will not be triggered to update. This is due to how JavaScript compares arrays and objects. It compares what was referenced, so if state was mutated, when returned, it still references the original value in memory which makes previous and next state equal (NO CHANGE)
@@ -690,3 +690,14 @@
 - Practiced creating and connecting reducers as well as using mapStateToProps to pass props to component
 
 **Thoughts:** Spent a ton of time on the rules of reducers tonight. It was quite a lot, but I should help me understand and avoid errors as I move forward.
+
+### Day 78: March 5, 2019
+
+**Today's Progress:** Continued with section 15 of the Modern React with Redux course by Stephen Grider on Udemy and continued building the same blog app. My progress:
+
+- Finished receiving and rendering list of posts to page
+- Learned that logic should be handled inside the mapStateToProps function instead of the component render method
+- Learned that ownProps could be used as an argument for mapStateToProps to reference compoenent props
+- Got an introduction to a useful helper function by LoDash called memoize
+
+**Thoughts:** Been skipping waaayy too many days lately, but I've been so exhausted that I just couldn't focus. I need to try extra hard not to skip anymore because otherwise, I'll never finish these 100 days! Finally rendered some posts and users to the page in the app and did some refactoring, but there's still some work to be done to optimize the user fetching.
