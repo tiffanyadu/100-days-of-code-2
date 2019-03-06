@@ -697,7 +697,7 @@
 
 - Finished receiving and rendering list of posts to page
 - Learned that logic should be handled inside the mapStateToProps function instead of the component render method
-- Learned that ownProps could be used as an argument for mapStateToProps to reference compoenent props
+- Learned that ownProps could be used as an argument for mapStateToProps to reference component props
 - Got an introduction to a useful helper function by LoDash called memoize
 
 **Thoughts:** Been skipping waaayy too many days lately, but I've been so exhausted that I just couldn't focus. I need to try extra hard not to skip anymore because otherwise, I'll never finish these 100 days! Finally rendered some posts and users to the page in the app and did some refactoring, but there's still some work to be done to optimize the user fetching.
