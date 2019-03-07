@@ -701,3 +701,13 @@
 - Got an introduction to a useful helper function by LoDash called memoize
 
 **Thoughts:** Been skipping waaayy too many days lately, but I've been so exhausted that I just couldn't focus. I need to try extra hard not to skip anymore because otherwise, I'll never finish these 100 days! Finally rendered some posts and users to the page in the app and did some refactoring, but there's still some work to be done to optimize the user fetching.
+
+### Day 79: March 6, 2019
+
+**Today's Progress:** Continued with section 15 of the Modern React with Redux course by Stephen Grider on Udemy and continued building the same blog app. My progress:
+
+- Reviewed how the memoized function (from the Lodash library) can be used to prevent making multiple calls to fetch the same content. In use, function should be memoized OUTSIDE of action creator so it only does it once.
+- Installed Lodash library to app and used memoize function to fix overfetching issue
+- Learned an alternate way to fix overfetching - write another action that will dispatch the other actions
+
+**Thoughts:** Didn't get very far with the app build, but I did learn some useful methods for overfetching issues. Also, I'm quite curious about this Lodash library and what it's capable of, so I'll need to check it out later on.
