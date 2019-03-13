@@ -711,3 +711,13 @@
 - Learned an alternate way to fix overfetching - write another action that will dispatch the other actions
 
 **Thoughts:** Didn't get very far with the app build, but I did learn some useful methods for overfetching issues. Also, I'm quite curious about this Lodash library and what it's capable of, so I'll need to check it out later on.
+
+### Day 80: March 12, 2019
+
+**Today's Progress:** Completed section 15 of the Modern React with Redux course by Stephen Grider on Udemy and finished building the blog app. Then, started section 16 and began building a new video streaming app similar to Twitch. My progress:
+
+- Reviewed the Redux function getState
+- Learned about a few other Lodash functions - map, uniq, chain, and value - and used these to fetch unique user ids without overfetching
+- Got a high-level overview of the streaming app we're building
+
+**Thoughts:** Boy do I feel terrible about missing a week of code! Life got a bit crazy, so I couldn't make time for this, but I'm glad to be back. This new Twitch-like app I'm building sounds quite daunting, but it's exciting to finally learn how to handle navigation, user authorization, and setting up a simple server in a React app.
