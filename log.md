@@ -722,7 +722,7 @@
 
 **Thoughts:** Boy do I feel terrible about missing a week of code! Life got a bit crazy, so I couldn't make time for this, but I'm glad to be back. This new Twitch-like app I'm building sounds quite daunting, but it's exciting to finally learn how to handle navigation, user authorization, and setting up a simple server in a React app.
 
-### Day 80: March 13, 2019
+### Day 81: March 13, 2019
 
 **Today's Progress:** Continued with section 16 of the Modern React with Redux course by Stephen Grider on Udemy and worked on the Twitch-like streaming app. My progress:
 
@@ -731,7 +731,7 @@
 
 **Thoughts:** Since this app contains multiple, smaller React apps, I swear I ran into an issue where I couldn't sync the whole project with GitHub. I read up about Submodules, didn't understand it at all, and gave up. When I came back to the project though, it seemed like it decided to work for some reason? The only caveat is that those small React app directories don't seem to open up when viewing on GitHub, so I'm not really sure what that means. Anyhow, I learned a good amount tonight about React Router and it's quite interesting how it determines what content to show on the page based on the path.
 
-### Day 81: March 14, 2019
+### Day 82: March 14, 2019
 
 **Today's Progress:** Continued with section 16 of the Modern React with Redux course by Stephen Grider on Udemy and worked on the Twitch-like streaming app. My progress:
 
