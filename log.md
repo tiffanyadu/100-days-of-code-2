@@ -730,3 +730,13 @@
 - Learned about React Router and how it works and how it's used to handle navigation -- using react-router-dom
 
 **Thoughts:** Since this app contains multiple, smaller React apps, I swear I ran into an issue where I couldn't sync the whole project with GitHub. I read up about Submodules, didn't understand it at all, and gave up. When I came back to the project though, it seemed like it decided to work for some reason? The only caveat is that those small React app directories don't seem to open up when viewing on GitHub, so I'm not really sure what that means. Anyhow, I learned a good amount tonight about React Router and it's quite interesting how it determines what content to show on the page based on the path.
+
+### Day 81: March 14, 2019
+
+**Today's Progress:** Continued with section 16 of the Modern React with Redux course by Stephen Grider on Udemy and worked on the Twitch-like streaming app. My progress:
+
+- Learned about React Router Link tags and how it is used to create link navigation in React apps, but without having to refetch the same html documents. Essentially, it acts like a regular anchor tag and seems like it loading a brand new page, but it's really a single page application that's swapping out it's content.
+- Reviewed the 3 different types of Routers - BrowserRouter, HashRouter, and MemoryRouter.
+- Set up stream components and added routers to each
+
+**Thoughts:** Didn't quite understand the point of using HashRouter, but maybe Stephen will cover that again later. I'm glad that implementing routers is relatively easy, and I'm ready to finally start building this app!
